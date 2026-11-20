@@ -14,10 +14,10 @@
   "use strict";
 
   const FIREBASE_CONFIG = Object.freeze({
-    projectId: "grao-nobre-roastery",
+    projectId: "julio-enterprise-suite",
     collection: "reservas_cafeteria",
     storageKey: "fb_enterprise_reservas_cafeteria_v4",
-    apiEndpoint: "https://firestore.googleapis.com/v1/projects/grao-nobre-roastery/databases/(default)/documents/reservas_cafeteria",
+    apiEndpoint: "https://firestore.googleapis.com/v1/projects/julio-enterprise-suite/databases/(default)/documents/reservas_cafeteria",
     timeoutMs: 4500
   });
 
